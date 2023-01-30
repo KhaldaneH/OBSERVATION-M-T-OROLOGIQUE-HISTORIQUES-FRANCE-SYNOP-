@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    place-items: center;
+    place-content: center;
+    background: url("cloud.jpg");
+    background-size: cover;
+}
+p{
+    color: rgb(244, 243, 229);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}

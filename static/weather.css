@@ -1,0 +1,84 @@
+body {
+    background: url("cloud.jpg");
+    background-size: cover;
+    display: flex;
+}
+section {
+    width: 100%;
+    max-width: 22rem;
+    margin-left: 50px;
+    margin-top: 60px;
+
+  }
+  .kh{
+    padding-left: 100px;
+  }
+  p{
+    color: antiquewhite;
+    font-size: 24px;
+    text-align: center;
+    font-weight:bold;
+
+  }
+  input {
+    background: white;
+    color: black;
+    transition: all 200ms ease;
+    border-left: 0  transparent;
+    border:none;
+    outline:none;
+    border: 0;
+    border-radius: calc(5.8rem * 0.3);
+  }
+  button {
+    cursor: pointer;
+    background: rgb(84, 88, 94);
+    width: 100px;
+    border: 0;
+    padding: 0 calc(5.8rem * 0.5);
+    border-radius: calc(5.8rem * 0.3);
+    box-shadow: 0 0 2rem rgb(0, 0, 0, 20%);
+    margin-left: 120px;
+    margin-top: 20px;
+  }
+  span{
+    margin-right: 20px;
+    color: antiquewhite;
+  }
+  h1{
+    color: rgb(255, 202, 68);
+    text-align: center;
+  }
+  .container{
+    margin-top: 20px;
+   margin-left: 50px;
+   border-radius: 12px;
+  }
+  
+  a:link, a:visited {
+    background-color: none;
+    color: rgb(52, 53, 54);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    margin-left: 90px;
+    font-size: 17px;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(213, 216, 220);
+    border-radius: 12px;
+  }
+  h4 {
+    color: red;
+    font-size: 17px;
+    text-align: center;
+    
+  }
+  td{
+    font-weight:bold;
+  }
+
+  
